@@ -8,7 +8,7 @@
 export default {
   name: "app",
 };
-</script>3
+</script>
 
 <style>
 </style>
